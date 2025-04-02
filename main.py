@@ -65,7 +65,7 @@ def main():
     
     # Example usage
     user_input = '''
-    datapath:OnlineSalesData.csv
+    datapath:testA.csv
     Use machine learning to perform data analysis and write complete graphical reports
     '''
     system.run(user_input)
